@@ -18,8 +18,8 @@ The benefits of using SearchGUI and PeptideShaker from within Galaxy include;
 
 PeptideShaker and Galaxy are at GCC 2015.  Click the links below for course materials
 
-- [Conceptual overview](https://dl.dropboxusercontent.com/u/226794/github/GCC%202015%2007062015.pdf)
-- [Course documentation](https://dl.dropboxusercontent.com/u/226794/github/GCC2015Documentation.pdf)
+- [Conceptual overview](https://dl.dropboxusercontent.com/u/226794/github/Conceptual%20Overview%20-GCC%202015%20Proteomics%20workshop%2007062015.pdf)
+- [Course documentation](https://dl.dropboxusercontent.com/u/226794/github/Course%20Documentation%20-%20GCC%202015%20Proteomicw%20Workshop.pdf)
 
 
 A slightly older tutorial on using PeptideShaker in Galaxy is available [here](https://github.com/iracooke/LearnGalaxyProteomics/wiki/TutorialPeptideShaker)
