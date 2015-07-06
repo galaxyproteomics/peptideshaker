@@ -12,3 +12,13 @@ The benefits of using SearchGUI and PeptideShaker from within Galaxy include;
 - The ability to create workflows that integrate with some of the many tools available in Galaxy
 
 - The ability to download a zip file of results from Galaxy that can then be loaded into PeptideShaker for offline inspection.
+
+
+# Tutorials
+
+PeptideShaker and Galaxy are at GCC 2015.  Click the links below for course materials
+	- [Conceptual overview](https://dl.dropboxusercontent.com/u/226794/github/GCC%202015%2007062015.pdf)
+	- [Course documentation](https://dl.dropboxusercontent.com/u/226794/github/GCC2015Documentation.pdf)
+
+
+A slightly older tutorial on using PeptideShaker in Galaxy is available [here](https://github.com/iracooke/LearnGalaxyProteomics/wiki/TutorialPeptideShaker)
